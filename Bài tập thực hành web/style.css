@@ -1,0 +1,19 @@
+img {
+	height: 175px;
+	width: 175px;
+}
+
+
+}
+#post {
+   width: 660px;
+   height: 150px;
+   background: #e8e8e8;
+   float: left;
+}
+#sidebar {
+ width: 200px;
+ height: 100px;
+ background: #b1b1b1;
+ float: right;
+}
